@@ -2,7 +2,7 @@
   "settings": {
     "app_version": 1,
     "update_url": "https://your-download-link.com/app.apk",
-    "blacklisted_apps": "com.topjohnwu.magisk,com.noshufou.android.su,eu.chainfire.supersu,com.cheat.engine,com.termux",
+    "blacklisted_apps": "",
     "telegram_url": "https://t.me/darknes_lord"
   },
   "security_toggles": {
