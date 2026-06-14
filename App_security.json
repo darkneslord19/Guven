@@ -6,7 +6,7 @@
     "telegram_url": "https://t.me/msmodspro"
   },
   "security_toggles": {
-    "anti_debug": false, 
+    "anti_debug": false,
     "anti_root": false,
     "anti_emulator": false,
     "anti_vpn": false,
