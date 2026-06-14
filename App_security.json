@@ -3,7 +3,7 @@
     "app_version": 1,
     "update_url": "https://your-download-link.com/app.apk",
     "blacklisted_apps": "com.topjohnwu.magisk,com.noshufou.android.su,eu.chainfire.supersu,com.cheat.engine,com.termux",
-    "telegram_url": "https://t.me/msmodspro"
+    "telegram_url": "https://t.me/darknes_lord"
   },
   "security_toggles": {
     "anti_debug": false,
