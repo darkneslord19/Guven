@@ -1,0 +1,23 @@
+{
+  "settings": {
+    "app_version": 1,
+    "update_url": "https://your-download-link.com/app.apk",
+    "blacklisted_apps": "com.dl",
+    "telegram_url": "https://t.me/darknes_lord"
+  },
+  "security_toggles": {
+    "anti_debug": false,
+    "anti_root": false,
+    "anti_emulator": false,
+    "anti_vpn": false,
+    "anti_hooking": false,
+    "signature_check": false,
+    "original_signature": "YAHAN_APNA_SHA256_DAALEIN"
+  },
+  "devices": {
+    "DEV-ABCDE12345": {
+      "login_key": "darkneslord",
+      "active": true
+    }
+  }
+}
