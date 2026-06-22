@@ -6,12 +6,12 @@
     "telegram_url": "https://t.me/darknes_lord"
   },
   "security_toggles": {
-    "anti_debug": true,
+    "anti_debug": false,
     "anti_root": false,
     "anti_emulator": false,
     "anti_vpn": false,
     "anti_hooking": false,
-    "signature_check": true,
+    "signature_check": false,
     "original_signature": "YAHAN_APNA_SHA256_D"
   },
   "devices": {}
