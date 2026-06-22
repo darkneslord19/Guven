@@ -12,7 +12,7 @@
     "anti_vpn": false,
     "anti_hooking": false,
     "signature_check": true,
-    "original_signature": "7B51EAEB24427673F7A1155A190F364B7180A9BD67AD3E34FF28EBED2825E3DD"
+    "original_signature": "7B51EAEB24427673F7A1155A190F364B7180A9BD67AD3E34FF28EBED2825E3D"
   },
   "devices": {
     "DEV-1E256221B2": {
