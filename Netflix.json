@@ -1,12 +1,18 @@
 {
   "settings": {
     "app_version": 1,
-    "update_url": "",
-    "telegram_url": "",
-    "blacklisted_apps": ""
+    "update_url": "https://t.me/darknes_lord",
+    "telegram_url": "https://t.me/darknes_lord",
+    "blacklisted_apps": "com.dl"
   },
   "security_toggles": {
-    "original_signature": ""
+    "original_signature": "Devam",
+    "anti_debug": false,
+    "anti_root": false,
+    "anti_emulator": false,
+    "anti_vpn": false,
+    "anti_hooking": false,
+    "signature_check": true
   },
   "devices": {}
 }
