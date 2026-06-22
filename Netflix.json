@@ -14,5 +14,10 @@
     "anti_hooking": false,
     "signature_check": true
   },
-  "devices": {}
+  "devices": {
+    "DEV-9JL5ZC": {
+      "login_key": "KEY1991",
+      "active": true
+    }
+  }
 }
