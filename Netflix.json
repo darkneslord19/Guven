@@ -1,0 +1,12 @@
+{
+  "settings": {
+    "app_version": 1,
+    "update_url": "",
+    "telegram_url": "",
+    "blacklisted_apps": ""
+  },
+  "security_toggles": {
+    "original_signature": ""
+  },
+  "devices": {}
+}
