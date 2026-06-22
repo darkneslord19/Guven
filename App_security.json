@@ -2,7 +2,7 @@
   "settings": {
     "app_version": 1,
     "update_url": "https://your-download-link.com/app.apk",
-    "blacklisted_apps": "com.dl",
+    "blacklisted_apps": "",
     "telegram_url": "https://t.me/darknes_lord"
   },
   "security_toggles": {
@@ -15,14 +15,6 @@
     "original_signature": "YAHAN_APNA_SHA256_DAALEIN"
   },
   "devices": {
-    "DEV-ABCDE12345": {
-      "login_key": "VIP2026",
-      "active": true
-    },
-    "DEV-98765XYZ": {
-      "login_key": "NEWUSER123",
-      "active": true
-    },
     "DEV-7CE2CD4916": {
       "login_key": "Dl",
       "active": true
