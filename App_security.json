@@ -11,7 +11,7 @@
     "anti_emulator": false,
     "anti_vpn": false,
     "anti_hooking": false,
-    "signature_check": false,
+    "signature_check": true,
     "original_signature": "YAHAN_APNA_SHA256_DAAL"
   },
   "devices": {
